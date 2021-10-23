@@ -10,7 +10,7 @@ const Navbar = () => {
           <div className="logo_icon_container">
             <span className="logo_icon"></span>
           </div>
-          <h1 className="logo">Palak</h1>
+          <h1 className="logo">Vaibhav</h1>
         </div>
         <nav className="navbar_items_container">
           <ul className="navbar_items">
